@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: 2ef23ad06f87143ceb92ffdbbf0d78df
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Vladivostok
+  fontNames:
+  - Vladivostok
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 5a1fb465bc1d44af18e9b90478c4a62c, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

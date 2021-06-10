@@ -1,0 +1,38 @@
+{
+	"dictionaries":[
+		{
+			"locale":"es",
+			"entries":[	
+				{
+					"key":"VIDEO_OPTIONS",
+					"value":"Opciones de vídeo"
+				},
+				{
+					"key":"FIT",
+					"value":"Ajuste"
+				},
+				{
+					"key":"FILTRO",
+					"value":"Filtro"
+				}
+			]
+		},
+		{
+			"locale":"en",
+			"entries":[	
+				{
+					"key":"VIDEO_OPTIONS",
+					"value":"Video options"
+				},
+				{
+					"key":"FIT",
+					"value":"Fit"
+				},
+				{
+					"key":"FILTER",
+					"value":"Filter"
+				}
+			]
+		}
+	]
+}
